@@ -1,5 +1,5 @@
 # Simon-Retro-Game-Using-ATmega328p
-Designing Hardware For Simon Color Matching Gamed Using ATmega328 With Arduino Nano Style 
+Designing Hardware For Simon Color Matching Gamed Using ATmega328 With Arduino Nano Style Using Altium Designer
 
 You can Contact me for assisting in software design as it wasn't implemented due to the lack of time
 
